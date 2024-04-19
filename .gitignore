@@ -146,6 +146,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Image
+*.png
+*.jpg
+*.gif
+
 # pytype static type analyzer
 .pytype/
 
